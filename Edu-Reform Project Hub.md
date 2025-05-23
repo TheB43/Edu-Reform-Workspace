@@ -1,49 +1,56 @@
 
 ## Audience
 
-### #1 - People with Power but Poor Interpersonal Skills?
+### #1 - [[People with Power but Poor Interpersonal Skills?]]
 
-### #2 - People with Relationship KSA Gaps
+### #2 - [[People with Relationship KSA Gaps]]
 
 ### #3 - 
 
 ## Medium
 
-### #1 - Webinar
+### #1 - [[Webinar]]
 
-### #2 - 1 on 1 Coaching
+### #2 - [[1 on 1 Coaching]]
 
-### #3 - Class setting
+### #3 - [[Class setting]]
 
-#### a) 
 ## Material
 
-### #1 - Relationships
+### #1 - [[Relationships]]
 
-### #2 - Agency
+### #2 - [[Agency]]
 
 ### #3 - 
 
 ## Tools
 
-### #1 - Spaced Repetition
+### #1 - [[Spaced Repetition]] 
 
-#### a) Anki
+### #2 - [[Active Recall]]
 
-### #2 - Active Recall
+### #3 - [[Role Embodiment Practices]]
 
-### #3 - TTRPG's
+## [[Pedagogy]]
 
-## Pedagogy
+### #1 - Dumb it down
 
-### Dumb it down
+### #2 - Experiential Examples
 
-### Experiential Examples
+### #3 - Connected to the "why"s/relevant to users life?
 
-### Connected to the "why"s/relevant to users life?
+#### #4 - Knowledge = Experience Flavor
 
-#### Knowledge = Experience Flavor
+## [[Main Issues]]
+
+### #1 - Incentivizing Adoption by Teachers/Schools/Parents/Students
+- Proven outcomes
+- Reduction of complexity
+- Infectiously promising
+### #2 - How do we integrate local SMEs?
 
 ## Sources 
 
-## hello motto
+
+
+#hub
